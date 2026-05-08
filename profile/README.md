@@ -9,4 +9,4 @@ Anomalous Protocol takes inspiration from:
 - [Pressure](https://www.roblox.com/games/12411473842/Pressure)
 - [Forsaken](https://www.roblox.com/games/18687417158/Forsaken)
 - [Dead by Daylight](https://store.steampowered.com/app/381210/Dead_by_Daylight)
-- Minecraft Myths
+- [Minecraft Myths](https://minecraft-myths.fandom.com/wiki/Minecraft_myths_wiki)
