@@ -8,4 +8,9 @@ An Asym is a 1 Vs All gamemode where a group of players have to survive a killer
 - [Pressure](https://www.roblox.com/games/12411473842/Pressure)
 - [Forsaken](https://www.roblox.com/games/18687417158/Forsaken)
 - [Dead by Daylight](https://store.steampowered.com/app/381210/Dead_by_Daylight)
+- [SCP Foundation](https://scp-wiki.wikidot.com)
 - [Minecraft Myths](https://minecraft-myths.fandom.com/wiki/Minecraft_myths_wiki)
+
+## Socials
+- [Youtube](https://www.youtube.com/@Anomalous_Protocol)
+- [Discord](https://discord.gg/VWsBu9WDqb)
