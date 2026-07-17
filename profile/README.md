@@ -1,8 +1,13 @@
-# Anomalous Protocol 
-Anomalous Protocol (AP) is an Asym, which is short for Asymmetrical Horror Game.
+## Disclaimers
+### Violence
+AP includes written and visual depictions of gore and violence.
+### No AI
+Generative AI will never be used in the development of any of our games, and if you notice AI present please alert us so we can remove and replace it.
 
-## What is an Asym?
-An Asym is a 1 Vs All gamemode where a group of players have to survive a killer until they have completed a certain goal (e.g. finishing an objective, killing the killer). Some examples of Asyms are Friday the 13th and Dead by Daylight.
+## Games
+- Anomalous Protocol (AP)
+  - Genre: Asymmetrical Horror
+  - Platform: Minecraft Java (1.21+)
 
 ## Inspirations
 - [Pressure](https://www.roblox.com/games/12411473842/Pressure)
