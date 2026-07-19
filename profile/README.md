@@ -1,8 +1,7 @@
-## Disclaimers
-### Violence
-AP includes written and visual depictions of gore and violence.
-### No AI
-Generative AI will never be used in the development of any of our games, and if you notice AI present please alert us so we can remove and replace it.
+### Terminal Studio
+
+## AI Disclaimer
+Generative AI will **NEVER** be used in the development of any of our games, if you notice AI assets within one of our games please alert us so we can replace them.
 
 ## Games
 - Anomalous Protocol (AP)
