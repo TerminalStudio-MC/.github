@@ -1,7 +1,7 @@
 # Terminal Studio
 
 ## AI Disclaimer
-Generative AI will **NEVER** be used in the development of any of our games, if you notice AI assets within one of our games please alert us so we can replace them.
+Generative AI will **NEVER** be used in the development of any of our games, if you notice textures, plugins, or music made with AI inside of one of our projects **PLEASE** alert us so we can work on replacing them.
 
 ## Projects
 ### Anomalous Protocol (AP)
