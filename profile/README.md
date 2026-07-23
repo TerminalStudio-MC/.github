@@ -4,6 +4,7 @@
 Generative AI will **NEVER** be used or endorsed by our team. If you notice textures, plugins, or music made with AI inside of one of our projects **PLEASE** alert us so we can work on replacing them.
 
 ## Projects
+
 ### Anomalous Protocol (AP)
 - Genre: Asymmetrical Horror
 - Platform: Minecraft Java (1.21+)
@@ -13,6 +14,7 @@ Generative AI will **NEVER** be used or endorsed by our team. If you notice text
   - [Dead by Daylight](https://store.steampowered.com/app/381210/Dead_by_Daylight)
   - [SCP Foundation](https://scp-wiki.wikidot.com)
   - [Minecraft Myths](https://minecraft-myths.fandom.com/wiki/Minecraft_myths_wiki)
+
 ### The Backrooms
 - Genre: RPG
 - Platform: Minecraft Java (1.21+)
@@ -23,4 +25,6 @@ Generative AI will **NEVER** be used or endorsed by our team. If you notice text
 
 ## Socials
 - [Youtube](https://www.youtube.com/@Anomalous_Protocol)
+- [Twitter](https://x.com/TerminalStudio_)
 - [Discord](https://discord.gg/VWsBu9WDqb)
+- [Support Discord](https://discord.gg/uwCUqqMj5n)
